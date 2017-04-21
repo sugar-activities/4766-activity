@@ -1,0 +1,14 @@
+include *.py
+include *.desktop
+recursive-include Lib *
+recursive-include Topics *
+recursive-include Imagenes *
+recursive-include Games *
+recursive-include Iconos *
+recursive-include VideoPlayer *
+recursive-include Videos *
+recursive-include Tv *
+recursive-include JAMediaImagenes *
+global-exclude *.pyc *.pyo
+include COPYING
+include README.md
